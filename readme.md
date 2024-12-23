@@ -48,5 +48,6 @@ Memory (LSTM) network to consider past information and action context.
 
 ###### References:
 [MEMORY-AUGMENTED ONLINE VIDEO ANOMALY DETECTION](https://arxiv.org/pdf/2302.10719) \
+[MOVAD repo](https://github.com/implabunipr/movad?tab=readme-ov-file) \
 [YOLOv10: Real-Time End-to-End Object Detection](https://arxiv.org/pdf/2405.14458) \
 [yolov10-vs-yolov9](https://medium.com/@boukamchahamdi/yolov10-vs-yolov9-6021339f28ea#:~:text=YOLOv9%20Features%20Vision%20Transformers%20%28ViTs%29%3A%20%E2%80%94%20YOLOv9%20integrates,especially%20in%20complex%20scenes%20with%20multiple%20objects.%202.)
