@@ -18,6 +18,9 @@ Following are the Object Detection models we will explore:
 2. YOLOv9
 3. YOLOv10
 
+You can find the trained model weights here: \
+[model weights](https://drive.google.com/drive/folders/1Kk1RuWHHxGGg2nYXDGBCEut3K-CjtAya?usp=sharing)
+
 #### Results :
 
 ![image](https://github.com/KenaHemnani/Traffic_detection_project/blob/main/traffic_detection_using_images/outputs/comparision_graphs/map_vs_gpu.png)
